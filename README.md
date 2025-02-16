@@ -5,16 +5,16 @@
 <h1 align="center">
   <b>Hola, Soy <a href="https://kevinklingresume.site/" target="blank"> Kevin</a> </b> <picture> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> </picture>
 </h1>
-<h3 align="center"> Backend Developer | Java, SQL & más | En constante aprendizaje </h3>
+<h3 align="center"> Backend Developer | Java, SQL & más | Explorando nuevas tecnologías </h3>
 <br>
 
 
 <!-- ABOUT ME -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40px></picture> Sobre Mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40px></picture> Sobre Mí
 
 - :technologist: Actualmente trabajo como Desarrollador Backend Jr. en una empresa multinacional.
 - :school: Estudiante de Tecnicatura en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
-- :rocket: En mi tiempo libre, me dedico a avanzar en mis proyectos personales o aprender algo nuevo.
+- :rocket: En mi tiempo libre, trabajo en mis proyectos personales o aprendo algo nuevo.
 <br>
 
 
@@ -50,7 +50,7 @@
 
 
 <!-- CONTACT -->   
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contáctame
   - 📲 [@kevinkling15](https://www.linkedin.com/in/kevinkling15) en Linkedin
   - 🙇‍♂️ [@kevinkling15](https://www.instagram.com/kevinkling15/) en Instagram
   - 📧 [kevin.99.kling](mailto:kevin.99.kling@gmail.com) en Gmail
